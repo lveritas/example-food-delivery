@@ -11,6 +11,25 @@
 1. 이벤트 스토밍
 ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/229c8841-564a-4309-8480-f99f628dd011)
 
+2. SAGA (PUB/SUB)
+
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/1b8fd9ee-131e-499b-a94a-09a9f260a777)
+
+
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/e2569e82-1129-47c0-8db6-55d59adbaeeb)
+
+
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/fc3b80a0-4020-42bf-88c7-1ca4920fe736)
+
+
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/e0708238-68ea-4cf1-8ea0-d09e7f7b8836)
+
+
+3. Kafka Monitoring
+
+![image](https://github.com/lveritas/example-food-delivery/assets/11433298/4e3d9b07-f389-44d5-b564-6aaa5de12cc9)
+
+=================================================================================
 # Table of contents
 
 - [예제 - 음식배달](#---)
