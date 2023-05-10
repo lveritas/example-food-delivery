@@ -9,7 +9,7 @@
 
 [과제]
 1. 이벤트 스토밍
-![image](https://github.com/lveritas/example-food-delivery/assets/11433298/56b42dcb-4508-42c3-85d8-009113cc82ae)
+![image](https://github.com/lveritas/example-food-delivery/assets/11433298/229c8841-564a-4309-8480-f99f628dd011)
 
 # Table of contents
 
