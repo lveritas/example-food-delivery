@@ -9,8 +9,8 @@
 
 [과제]
 1. 이벤트 스토밍
-![image](https://github.com/lveritas/example-food-delivery/assets/11433298/229c8841-564a-4309-8480-f99f628dd011)
-
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/cb469e6c-fd58-4146-8578-d0a1c1b32189)
+    
 2. SAGA (PUB/SUB)
 
     ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/1b8fd9ee-131e-499b-a94a-09a9f260a777)
@@ -35,9 +35,20 @@
 
 4. Compensation / Correlation
 
-    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/d885c7cc-1c4e-4dc1-a597-8a59125c6985)
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/4f721377-1295-4c37-9d52-fe930f03e58c)
 
-    ![image](https://github.com/seojeongmin7809/food-delivery-2/assets/11433298/bcf3cc9b-28b6-453d-8342-b2d29b23aef3)
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/27318810-820e-4042-980e-768e11544560)
+
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/453de353-92d1-4b2e-a9df-4e73a23a0421)
+
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/552333d1-1d59-4410-b793-cc172f7009b9)
+
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/73ccba1f-3ea6-4edf-8c41-0283ad590186)
+
+
+5. Kafka Monitoring
+
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/7321c9b3-c7a7-4439-b719-5cd547700e70)
 
 
 
