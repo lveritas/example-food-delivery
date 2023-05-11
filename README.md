@@ -24,8 +24,16 @@
 
     ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/e0708238-68ea-4cf1-8ea0-d09e7f7b8836)
 
+3. CQRS
 
-3. Kafka Monitoring
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/aefc6d63-1420-4ea6-bdce-1f2ae79f89d3)
+    
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/81ccf9a1-aeb3-4908-9412-075f26eb59e8)
+    
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/47176d54-6c73-4ba2-92a4-8b64800b5f15)
+    
+
+5. Kafka Monitoring
 
 ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/4e3d9b07-f389-44d5-b564-6aaa5de12cc9)
 
