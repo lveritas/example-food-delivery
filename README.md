@@ -33,9 +33,12 @@
     ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/47176d54-6c73-4ba2-92a4-8b64800b5f15)
     
 
-5. Kafka Monitoring
+4. Compensation / Correlation
 
-![image](https://github.com/lveritas/example-food-delivery/assets/11433298/4e3d9b07-f389-44d5-b564-6aaa5de12cc9)
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/d885c7cc-1c4e-4dc1-a597-8a59125c6985)
+
+    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/4c5f7042-c622-4ea3-898b-81f6cd3703b9)
+
 
 =================================================================================
 # Table of contents
