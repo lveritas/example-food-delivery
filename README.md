@@ -37,7 +37,8 @@
 
     ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/d885c7cc-1c4e-4dc1-a597-8a59125c6985)
 
-    ![image](https://github.com/lveritas/example-food-delivery/assets/11433298/4c5f7042-c622-4ea3-898b-81f6cd3703b9)
+    ![image](https://github.com/seojeongmin7809/food-delivery-2/assets/11433298/bcf3cc9b-28b6-453d-8342-b2d29b23aef3)
+
 
 
 =================================================================================
